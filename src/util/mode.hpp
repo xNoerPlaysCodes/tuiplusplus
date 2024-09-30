@@ -1,0 +1,19 @@
+#ifndef MODE_HPP_INCLUDE_HEADER
+#define MODE_HPP_INCLUDE_HEADER
+
+namespace tpp {
+
+enum class Mode {
+    INTERACTIVE,
+    REGULAR,
+
+    FRAME_RENDER_HARD,
+    FRAME_RENDER_SOFT,
+
+    DISABLE_MOUSE,
+    ENABLE_MOUSE
+};
+
+}
+
+#endif // !MODE_HPP_INCLUDE_HEADER
