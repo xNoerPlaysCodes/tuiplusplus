@@ -8,6 +8,6 @@ tpp::initialize_tui();
 ```
 
 destroy tpp
-```
+```cpp
 tpp::destroy_tui();
 ```
