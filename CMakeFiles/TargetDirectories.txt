@@ -1,0 +1,3 @@
+/home/noerlol/C-Projects/tuiplusplus/CMakeFiles/tuiplusplus.dir
+/home/noerlol/C-Projects/tuiplusplus/CMakeFiles/edit_cache.dir
+/home/noerlol/C-Projects/tuiplusplus/CMakeFiles/rebuild_cache.dir

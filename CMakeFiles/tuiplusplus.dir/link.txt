@@ -1,0 +1,2 @@
+/usr/bin/llvm-ar qc libtuiplusplus.a CMakeFiles/tuiplusplus.dir/src/cmake.cpp.o
+/usr/bin/llvm-ranlib libtuiplusplus.a
